@@ -1,0 +1,130 @@
+/**
+ * Fastrac Shipping Styles
+ */
+
+/* Helper text styling */
+.fastrac-helper-text {
+    display: block;
+    color: #666;
+    font-style: italic;
+    margin-top: 5px;
+    font-size: 0.85em;
+}
+
+/* Loading indicator for postcode updates */
+.processing-postcode {
+    opacity: 0.5;
+    pointer-events: none;
+}
+
+/* Error message styling */
+.fastrac-error {
+    color: #b81c23;
+    font-weight: bold;
+}
+
+/* Success message styling */
+.fastrac-success {
+    color: #0f834d;
+    font-weight: bold;
+}
+
+/**
+ * Fastrac Shipping Styles
+ */
+
+/* Postcode field styling during processing */
+.processing {
+    opacity: 0.7;
+    background-image: url('../img/loader.gif');
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: 20px;
+}
+
+/* Message styling */
+.fastrac-message {
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.fastrac-message-success {
+    background-color: #dff0d8;
+    border: 1px solid #d6e9c6;
+    color: #3c763d;
+}
+
+.fastrac-message-error {
+    background-color: #f2dede;
+    border: 1px solid #ebccd1;
+    color: #a94442;
+}
+
+/**
+ * Fastrac Shipping Styles
+ */
+
+/* Postcode field styling during processing */
+.processing {
+    opacity: 0.7;
+    background-image: url('../img/loader.gif');
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: 20px;
+}
+
+/* Message styling */
+.fastrac-message {
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 3px;
+    font-size: 14px;
+}
+
+.fastrac-message-success {
+    background-color: #dff0d8;
+    border: 1px solid #d6e9c6;
+    color: #3c763d;
+}
+
+.fastrac-message-error {
+    background-color: #f2dede;
+    border: 1px solid #ebccd1;
+    color: #a94442;
+}
+
+/**
+ * Fastrac Shipping Styles
+ */
+
+/* Postcode field styling during processing */
+.processing {
+    opacity: 0.7;
+    background-image: url('../img/loader.gif');
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: 20px;
+}
+
+/* Message styling */
+.fastrac-message {
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.fastrac-message-success {
+    background-color: #dff0d8;
+    border: 1px solid #d6e9c6;
+    color: #3c763d;
+}
+
+.fastrac-message-error {
+    background-color: #f2dede;
+    border: 1px solid #ebccd1;
+    color: #a94442;
+}
+
